@@ -1,5 +1,5 @@
 FROM fedora:24
-MAINTAINER Jeff Geerling
+LABEL maintainer="Jeff Geerling"
 ENV container=docker
 
 # Update and enable systemd.
