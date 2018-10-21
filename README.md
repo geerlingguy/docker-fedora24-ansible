@@ -1,6 +1,8 @@
-# Fedora 24 Ansible Test Image
+# DEPRECATED - Fedora 24 Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora24-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora24-ansible/)
+
+> **DEPRECATED**: Please update to a newer version of Fedora. Fedora 24 (and this image, by extension) is no longer supported.
 
 Fedora 24 Docker container for Ansible playbook and role testing.
 
