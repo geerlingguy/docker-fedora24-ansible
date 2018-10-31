@@ -20,6 +20,8 @@ RUN dnf makecache fast \
       sudo \
       which \
       python2-dnf \
+      tar.x86_64 \
+      unzip \
  && dnf clean all
 
 # Disable requiretty.
